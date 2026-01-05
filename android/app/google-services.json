@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863205658684",
+    "project_id": "dat-san-the-thao",
+    "storage_bucket": "dat-san-the-thao.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863205658684:android:0bf075dbc820c80a973339",
+        "android_client_info": {
+          "package_name": "com.example.flutter_dstt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPp7uLZdUi_5-Tb1xM_Tszreuv1-01XpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
